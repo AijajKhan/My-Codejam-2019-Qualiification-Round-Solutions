@@ -8,4 +8,4 @@ for z in range(0,t,1)
     x=int(n)
     print("Case #\{}: {} \{}".format(z+1,x,y-x))
     
-}
+
